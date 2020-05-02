@@ -1,6 +1,6 @@
 Last modified: October 7th, 2018.
 
-## 1. Services
+####### 1. Services
 
 - 1.1 These Material-UI Terms of Service (these “Terms”) apply to the features and functions provided by Functional Software, Inc. (“Material-UI,” “our,” or “we”) via material-ui.com (the “Site”) (collectively, the “Services”). By accessing or using the Site or the Services, you agree to be bound by these Terms. If you do not agree to these Terms, you are not allowed to use the Site or the Services. The “Effective Date” of these Terms is the date you first use the Site, or access any of the Services.
 

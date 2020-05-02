@@ -6,7 +6,7 @@ import Box from '@material-ui/core/Box';
 import Markdown from './modules/components/Markdown';
 import Typography from './modules/components/Typography';
 import AppAppBar from './modules/views/AppAppBar';
-import terms from './modules/views/terms.md';
+import copyterms from './modules/views/copyterms.md';
 import AppFooter from './modules/views/AppFooter';
 
 function Terms() {
@@ -18,7 +18,7 @@ function Terms() {
           <Typography variant="h3" gutterBottom marked="center" align="center">
             Terms
           </Typography>
-          <Markdown>{terms}</Markdown>
+          <Markdown>{copyterms}</Markdown>
         </Box>
       </Container>
       <AppFooter />
